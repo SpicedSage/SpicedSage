@@ -21,6 +21,7 @@ I am also versed in multible different languages, including:
 - Bash
 - PowerShell
 - Batch Script
+- VBScript
 - 6502 Assembly
 - x80 Assembly
 - BrainFuck
