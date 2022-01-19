@@ -13,6 +13,8 @@ Main IDEs:
 
 I am also versed in multible different languages, including:
 - C#
+- C++
+- C
 - XAML
 - Python
 - HTML
