@@ -23,6 +23,6 @@ I am also versed in multible different languages, including:
 - Batch Script
 - VBScript
 - 6502 Assembly
-- x80 Assembly
+- z80 Assembly
 - BrainFuck
 - LOLCode
