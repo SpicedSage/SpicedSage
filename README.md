@@ -13,17 +13,17 @@ Main IDEs:
 
 I am also versed in multible different languages, including:
 - C#
-- C++
-- C
 - XAML
 - Python
 - HTML
 - CSS
 - JavaScript
+- C++
 - Bash
 - PowerShell
 - Batch Script
 - VBScript
+- C
 - 6502 Assembly
 - z80 Assembly
 - BrainFuck
