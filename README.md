@@ -1,17 +1,17 @@
 <h1 align="center">Ayo! Hi there!!! 👋, I'm Sage</h1>
-<h3 align="center">I uhmm- where did you come from- eh what's it matter- here's some stuff about me! pronouns are It/She/They, I'm a Senior at MCCTC and am in the Software Development Course. Oh and also I am the Lead Software Developer for Professional Engine Systems. I love working with obscure and unusual languages, a few of my favorites to work with being Batch and most Retro Assembly Languages!</h3>
+<h3 align="center">I uhmm- where did you come from- eh what's it matter- here's some stuff about me! pronouns are It/She/They, I love working with obscure and unusual languages, a few of my favorites to work with being Batch and most Retro Assembly Languages!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spicedsage&label=Profile%20views&color=0e75b6&style=flat" alt="spicedsage" /> </p>
 
 - 🔭 I’m currently working on [Keyboard Shuffle](https://github.com/SpicedSage/Cpp--Keyboard-Randomizer)
 
-- 🌱 I’m currently learning **Kotlin Programing Language**
+- 🌱 I’m currently learning **AHK**
 
-- 💬 Ask me about **Batch, C#, and z80**
+- 💬 Ask me about **Batch, C, and z80**
 
 - 📫 How to reach me **SageHendricksProgramming@gmail.com**
 
-- ⚡ Fun fact **I'm Asexual, Biromantic, and Genderfluid!!**
+- ⚡ Fun fact **I'm not straight**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
