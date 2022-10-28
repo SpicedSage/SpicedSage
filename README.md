@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spicedsage&label=Profile%20views&color=0e75b6&style=flat" alt="spicedsage" /> </p>
 
-- 🔭 I’m currently working on [Keyboard Shuffle](https://github.com/SpicedSage/Cpp--Keyboard-Randomizer)
+- 🔭 I’m currently working on [Whitespace(POC) Tic-Tac-Toe](https://github.com/SpicedSage/Whitespace-Knots-N-Crosses)
 
 - 🌱 I’m currently learning **AHK**
 
-- 💬 Ask me about **Batch, C, and z80**
+- 💬 Ask me about **C, ASM, or Whitespace**
 
 - 📫 How to reach me **SageHendricksProgramming@gmail.com**
 
